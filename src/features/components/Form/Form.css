@@ -1,0 +1,28 @@
+.value {
+  width: 65%;
+}
+input.value {
+  width: 65%;
+  margin: 10px;
+}
+.label {
+  width: 35%;
+  margin-right: 10px;
+}
+.left {
+  text-align: start;
+}
+.right {
+  text-align: end;
+}
+button {
+  margin: 10px;
+}
+
+.edit-form {
+  display: flex;
+  width: 100%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-end;
+}
